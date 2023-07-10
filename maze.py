@@ -5,7 +5,7 @@ import playsound
 from gtts import gTTS
 import openai
 import speech_recognition as sr
-maze_api="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"
+maze_api="type_your_api_key"
 
 lang='en'
 openai.api_key=maze_api
